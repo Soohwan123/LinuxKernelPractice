@@ -1,0 +1,1 @@
+savedcmd_/home/soohwan/LinuxKernelPractice/MMIO/mmio_led_driver.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/soohwan/LinuxKernelPractice/MMIO/mmio_led_driver.ko /home/soohwan/LinuxKernelPractice/MMIO/mmio_led_driver.o /home/soohwan/LinuxKernelPractice/MMIO/mmio_led_driver.mod.o
